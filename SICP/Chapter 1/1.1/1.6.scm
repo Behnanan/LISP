@@ -1,0 +1,2 @@
+"The above code results in an infinite loop because new-if never resolves because of the first cond. Cond evaluates all procedures, and because of app order, this leads to
+an infinite loop / stack overflow."
