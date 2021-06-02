@@ -1,0 +1,10 @@
+(require (planet dyoo/simply-scheme:2:2))
+(load "twenty-one.scm")
+(load "best-total.scm")
+(load "stop-at-17.scm")
+(load "play-n.scm")
+
+(display (play-n 1000 stop-at-17))
+(display "\n")
+(display "done.\n")
+(exit)
