@@ -1,0 +1,3 @@
+scheme --quiet < program.scm
+scheme < file.scm
+--interactive

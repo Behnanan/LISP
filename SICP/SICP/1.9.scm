@@ -1,3 +1,5 @@
+"Both procedures are recursive, but the process in the second example is iterative."
+
 (define (+ a b)
     (if (= a 0)
     b

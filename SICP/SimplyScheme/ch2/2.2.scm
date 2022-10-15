@@ -1,0 +1,1 @@
+"The domain of the vowel? function is all inputs."

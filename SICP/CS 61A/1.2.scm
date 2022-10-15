@@ -1,3 +1,5 @@
+#lang racket
+(require (planet dyoo/simply-scheme))
 
 (define (squares nums)
   (if (empty? nums)
